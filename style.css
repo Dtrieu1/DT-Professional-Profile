@@ -1,0 +1,73 @@
+header {
+    padding: 25px;
+    text-align: center;
+    background: rgb(112, 112, 112);
+    color: #fff;
+    font-size:35px;
+  }
+/* Cards are split into two columns at 992px or smaller */
+@media screen and (max-width: 992px) {
+    .card {
+      width: 50%;
+    }
+    /* Change the header color */
+    header {
+      background: #772014;
+    }
+  }
+  
+  /* Cards are stacked on top of each other at 768px or smaller */
+  @media screen and (max-width: 768px) {
+    .card {
+      width: 100%;
+    }
+    /* Change the header color */
+    header {
+      background: #8ac4ff;
+    }
+  }
+
+  main{
+    display: flex;
+  }
+
+  .card {
+  flex: 1;
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(175, 198, 212);
+}
+
+img{
+  display:block;
+  margin-bottom: 25px;
+  height:700px;
+  width:50%;
+  margin-left: auto;
+  margin-right:auto;
+  background: rgb(175, 198, 212);
+}
+.main_page{
+line-height: 24px;
+padding: 10px;
+color:black;
+background-color: rgb(175, 198, 212);
+font-weight: bolder;
+font-family:'Times New Roman', Times, serif;
+text-align:center;
+font-size:18px;
+}
+
+li{
+ padding:10px;
+ display:inline;
+  background-color:gray;
+}
+
+h1{
+  font-size: 35px;
+}
+
+h3{
+  font-size: 25px;
+}
