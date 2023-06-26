@@ -96,14 +96,8 @@
     text-align: center;
   }
 
-  .about_me_pop_up{
-    display:flex;
-    justify-content: center;
-    flex-direction: row;
-    background-color: rgb(175, 198, 212);
-    color:black;
-  }
 
+/* Updated to satisfy the criteria of different dimensions to boxes */
   largerbox{
     height: 520px;
     width: 600px;
@@ -114,6 +108,16 @@
   .largerpicture{
     height: 460px;
     width: 500px;
+  }
+
+
+  /* Updated for center profile section */
+  .about_me_pop_up{
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    background-color: rgb(175, 198, 212);
+    color:black;
   }
 
 .top_selection{
