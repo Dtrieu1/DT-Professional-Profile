@@ -138,3 +138,37 @@
     padding:15px;
     background-color: lightgray;
 }
+
+@media screen and (max-width: 992px) {
+  .largerpicture{
+    width:75%;
+    height:75%;
+  }
+  
+  div {
+    width: 75%;
+    height: 75%;
+  }
+  img{
+    width: 75%;
+    height: 75%;
+  }
+  header {
+    background: #772014;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  
+  div {
+    width: 50%;
+    height: 50%;
+  }
+  img{
+    width: 50%;
+    height: 50%;
+  }
+  header {
+    background: #8ac4ff;
+  }
+}
