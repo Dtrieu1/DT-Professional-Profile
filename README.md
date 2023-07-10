@@ -10,3 +10,5 @@ Pictures used are from the following:
 2. Coding Photo - https://www.pexels.com/photo/a-man-sitting-in-front-of-the-computer-while-working-7988087/
 3. It's about time Photo - https://www.pexels.com/photo/close-up-shot-of-a-pink-ribbon-beside-a-calendar-7805676/
 4. Pathway Photo - https://www.pexels.com/photo/brown-wooden-dock-surrounded-with-green-grass-near-mountain-under-white-clouds-and-blue-sky-at-daytime-808465/
+
+Deployment Link: https://dtrieu1.github.io/DT-Professional-Profile/
